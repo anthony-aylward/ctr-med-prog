@@ -33,7 +33,7 @@ under political pressure, [stymieing](https://web.archive.org/web/20161206191756
 research on various human disesases. CMP [targeted another provider](http://www.centerformedicalprogress.org/2018/09/cmp-issues-special-report-on-advanced-bioscience-resources/), Advanced
 Bioscience Resources, in 2018.
 
-### Violence
+## CMP's relationship with violent extremism
 
 In late August 2015, Southern Poverty Law Center reported that CMP is [directly
 connected](https://www.splcenter.org/hatewatch/2015/08/31/group-attacking-planned-parenthood-linked-extremists) to [Operation Rescue](https://en.wikipedia.org/wiki/Operation_Rescue_(Kansas)), another anti-abortion organisation whose members are
