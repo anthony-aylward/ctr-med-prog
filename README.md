@@ -22,7 +22,7 @@ videos](https://en.wikipedia.org/wiki/David_Daleiden) of conversations with
 the sale of fetal tissue. Multiple legal conflicts between CMP and PP ensued,
 including [15 felony charges](https://apnews.com/c50e993d047142cf8ca0e8050daf6114)
 in 2017 (and still ongoing) by the State of California against Daleiden and CMP employee Sandra
-Merritt.
+Merritt, in addition to a [civil suit](https://www.courthousenews.com/anti-abortionist-cant-duck-planned-parenthood-lawsuit/) against CMP by PP.
 
 ### Aftermath of the Planned Parenthood controversy
 
