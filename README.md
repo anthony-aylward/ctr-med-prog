@@ -37,5 +37,11 @@ Bioscience Resources, in 2018.
 
 In late August 2015, Southern Poverty Law Center reported that CMP is [directly
 connected](https://www.splcenter.org/hatewatch/2015/08/31/group-attacking-planned-parenthood-linked-extremists) to [Operation Rescue](https://en.wikipedia.org/wiki/Operation_Rescue_(Kansas)), another anti-abortion organisation whose members are
-historically connected with violent extremism and domestic terrorism.
+historically connected with violent extremism and domestic terrorism. Indeed,
+a surge of reported threats against abortion providers followed the release of
+CMP's videos.
+
+These facts demonstrate, at a minimum, that CMP's audience includes people
+willing to perform acts of violence and terrorism in the name of pro-life
+ideology.
 
