@@ -41,9 +41,10 @@ historically connected with violent extremism and domestic terrorism. Indeed,
 a surge of reported threats against abortion providers followed the release of
 CMP's videos.
 
-On November 27, 2015, a [mass shooting](https://www.nytimes.com/2015/11/28/us/colorado-planned-parenthood-shooting.html?smid=pl-share) occurred in a Planned Parenthood clinic
+On November 27, 2015, a [mass shooting](https://en.wikipedia.org/wiki/Colorado_Springs_Planned_Parenthood_shooting) occurred in a Planned Parenthood clinic
 in Colorado Springs, Colorado, resulting in the deaths of three people and
-injuries to nine.
+injuries to nine. When the shooter was arrested, he reportedly ranted to police
+about ["baby parts"](https://www.washingtonpost.com/politics/abortion-rights-groups-political-rhetoric-contributed-to-shooting/2015/11/29/d2fad2c4-96c7-11e5-8917-653b65c809eb_story.html?utm_term=.d8fa2e9453d3).
 
 These facts demonstrate, at a minimum, that CMP's audience includes people
 willing to perform acts of violence and terrorism in the name of pro-life
