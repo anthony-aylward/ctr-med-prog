@@ -41,7 +41,7 @@ historically connected with violent extremism and domestic terrorism. Indeed,
 a surge of reported threats against abortion providers followed the release of
 CMP's videos.
 
-On November 27, 2015, a [mass shooting](https://www.nytimes.com/2015/11/29/us/colorado-springs-planned-parenthood-shooting.html?smid=pl-share) occurred in a Planned Parenthood clinic
+On November 27, 2015, a [mass shooting](https://www.nytimes.com/2015/11/28/us/colorado-planned-parenthood-shooting.html?smid=pl-share) occurred in a Planned Parenthood clinic
 in Colorado Springs, Colorado, resulting in the deaths of three people and
 injuries to nine.
 
