@@ -68,7 +68,7 @@ synagogue shooting](https://en.wikipedia.org/wiki/Poway_synagogue_shooting), whi
 ## Response to CMP's tweet
 
 Replys to CMP's tweet about UCSD were only rarely skeptical, and usually showed
-varying degrees of outrage. Here is a particularly vicious example:
+varying degrees of outrage. Here is a particularly vitriolic example:
 
 ![outrage](figure/outrage.png)
 
