@@ -12,7 +12,7 @@ and [liveaction.org](https://www.liveaction.org/news/university-lab-mistake-feta
 After some digging into CMP's history, I now believe that CMP's
 objective is a significant defunding of research at UCSD and that being
 targeted by CMP is a threat to the health and safety of UCSD researchers. This
-document outlines the evidence supporting that conclusion.
+document summarizes the evidence supporting that conclusion.
 
 ## A brief history of CMP
 
