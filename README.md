@@ -62,3 +62,8 @@ ideology.
 synagogue shooting](https://en.wikipedia.org/wiki/Poway_synagogue_shooting), which occurred just 20 miles from UCSD, was motivated by the perpetrator's [anti-semitism](https://www.nbcnews.com/news/us-news/anti-semitic-open-letter-posted-online-under-name-chabad-synagogue-n999211) and radicalization on the neo-nazi forum [8chan](https://www.bellingcat.com/news/americas/2019/04/28/ignore-the-poway-synagogue-shooters-manifesto-pay-attention-to-8chans-pol-board/). Far-right radicals in southern California have access to weapons and can be incited to violence by online activity.
 
 ## Online response to CMP's tweet
+
+Replys to CMP's tweet about UCSD were rarely skeptical, and usually showed
+varying degrees of outrage.
+
+![outrage](figure/outrage.png)
