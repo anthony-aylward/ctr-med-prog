@@ -26,6 +26,10 @@ Merritt, in addition to a [civil suit](https://www.courthousenews.com/anti-abort
 
 Current CMP board members include David Daleiden, [Troy Newman](https://en.wikipedia.org/wiki/Troy_Newman_(activist)), and [Albin Rhomberg.](https://en.wikipedia.org/wiki/Albin_Rhomberg)
 
+> ![pie](figure/pie.png)
+>
+> 15 felony charges against CMP include 14 of filming without consent and 1 of conspiracy to invade privacy.
+
 ### Aftermath of the Planned Parenthood controversy
 
 The videos released by CMP had substantial scientific and political impact.
@@ -61,9 +65,12 @@ ideology.
 > Acts of right-wing domestic terrorism have occurred in southern California in recent history. The [2014 Islat Vista killings](https://en.wikipedia.org/wiki/2014_Isla_Vista_killings) were motivated by the perpetrator's [hatred of women](https://www.bbc.com/news/world-us-canada-43892189) and radicalization in [alt-right online communities](https://www.latimes.com/local/lanow/la-me-isle-vista-massacre-alt-right-20180206-story.html). The [2019 Poway
 synagogue shooting](https://en.wikipedia.org/wiki/Poway_synagogue_shooting), which occurred just 20 miles from UCSD, was motivated by the perpetrator's [anti-semitism](https://www.nbcnews.com/news/us-news/anti-semitic-open-letter-posted-online-under-name-chabad-synagogue-n999211) and radicalization on the neo-nazi forum [8chan](https://www.bellingcat.com/news/americas/2019/04/28/ignore-the-poway-synagogue-shooters-manifesto-pay-attention-to-8chans-pol-board/). Far-right radicals in southern California have access to weapons and can be incited to violence by online activity.
 
-## Online response to CMP's tweet
+## Response to CMP's tweet
 
-Replys to CMP's tweet about UCSD were rarely skeptical, and usually showed
-varying degrees of outrage.
+Replys to CMP's tweet about UCSD were only rarely skeptical, and usually showed
+varying degrees of outrage. Here is a particularly vicious example:
 
 ![outrage](figure/outrage.png)
+
+
+#
