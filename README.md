@@ -47,7 +47,7 @@ On November 27, 2015, a [mass shooting](https://en.wikipedia.org/wiki/Colorado_S
 in Colorado Springs, Colorado, resulting in the deaths of three people and
 injuries to nine. When the shooter was arrested, he reportedly ranted to police
 about ["baby parts"](https://www.washingtonpost.com/politics/abortion-rights-groups-political-rhetoric-contributed-to-shooting/2015/11/29/d2fad2c4-96c7-11e5-8917-653b65c809eb_story.html?utm_term=.d8fa2e9453d3).
-Pro-choice and public-health groups [called on the US Department of Justice](https://www.thenation.com/article/abortion-domestic-terrorism/)
+Pro-choice and public health groups [called on the US Department of Justice](https://www.thenation.com/article/abortion-domestic-terrorism/)
 to investigate this attack and others as acts of domestic terrorism, claiming the shooter had been motivated by the videos realeased by CMP. The
 Colorado Springs shooting was the most recent and deadly of a decades-long
 history of [anti-abortion killings](https://en.wikipedia.org/wiki/Anti-abortion_violence#Murders).
@@ -56,3 +56,7 @@ These facts demonstrate, at a minimum, that CMP's audience includes people
 willing to perform acts of violence and terrorism in the name of pro-life
 ideology.
 
+> ### Sidebar: Right-wing terrorism in Southern California
+>
+> Acts of right-wing domestic terrorism have occurred in southern California in the past. The [2014 Islat Vista killings](https://en.wikipedia.org/wiki/2014_Isla_Vista_killings) were motivated by the perpetrator's [hatred of women](https://www.bbc.com/news/world-us-canada-43892189) and radicalization in [alt-right online communities](https://www.latimes.com/local/lanow/la-me-isle-vista-massacre-alt-right-20180206-story.html). The [2019 Poway
+synagogue shooting](https://en.wikipedia.org/wiki/Poway_synagogue_shooting), which occurred just 20 miles from UCSD, was motivated by the perpetrator's [anti-semitism](https://www.nbcnews.com/news/us-news/anti-semitic-open-letter-posted-online-under-name-chabad-synagogue-n999211) and radicalization on the neo-nazi forum [8chan](https://www.bellingcat.com/news/americas/2019/04/28/ignore-the-poway-synagogue-shooters-manifesto-pay-attention-to-8chans-pol-board/). Far-right radicals in southern California have access to weapons and can be incited to violence by online activity.
