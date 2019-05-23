@@ -24,6 +24,8 @@ including [15 felony charges](https://apnews.com/c50e993d047142cf8ca0e8050daf611
 in 2017 (and still ongoing) by the State of California against Daleiden and CMP employee Sandra
 Merritt, in addition to a [civil suit](https://www.courthousenews.com/anti-abortionist-cant-duck-planned-parenthood-lawsuit/) against CMP by PP.
 
+Current CMP board members include David Daleiden, [Troy Newman](https://en.wikipedia.org/wiki/Troy_Newman_(activist)), and [Albin Rhomberg.](https://en.wikipedia.org/wiki/Albin_Rhomberg)
+
 ### Aftermath of the Planned Parenthood controversy
 
 The videos released by CMP had substantial scientific and political impact.
@@ -45,6 +47,10 @@ On November 27, 2015, a [mass shooting](https://en.wikipedia.org/wiki/Colorado_S
 in Colorado Springs, Colorado, resulting in the deaths of three people and
 injuries to nine. When the shooter was arrested, he reportedly ranted to police
 about ["baby parts"](https://www.washingtonpost.com/politics/abortion-rights-groups-political-rhetoric-contributed-to-shooting/2015/11/29/d2fad2c4-96c7-11e5-8917-653b65c809eb_story.html?utm_term=.d8fa2e9453d3).
+Pro-choice and public-health groups [called on the US Department of Justice](https://www.thenation.com/article/abortion-domestic-terrorism/)
+to investigate this attack and others as acts of domestic terrorism, claiming the shooter had been motivated by the videos realeased by CMP. The
+Colorado Springs shooting was the most recent and deadly of a decades-long
+history of [anti-abortion killings](https://en.wikipedia.org/wiki/Anti-abortion_violence#Murders).
 
 These facts demonstrate, at a minimum, that CMP's audience includes people
 willing to perform acts of violence and terrorism in the name of pro-life
