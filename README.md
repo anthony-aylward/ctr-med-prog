@@ -79,11 +79,12 @@ public opinion and curtail scientific research. Leading members of CMP are
 historically connected with violent extremism, and CMP's 2015 campaign against
 PP was likely a motivating factor in a politically-motivated mass shooting.
 
-Given the current nationwide [escalation] of the anti-abortion movement, it is
-plausible that CMP's activities will also escalate. CMP's targeting of a UCSD
-lab threatens to interrupt valuable scientific research, if left unchecked.
-In light of the recent history of right-wing violence in southern California,
-it also threatens the health and safety of UCSD researchers.
+Given the current nationwide [escalation](https://fivethirtyeight.com/features/we-categorized-hundreds-of-abortion-restrictions-heres-why-the-anti-abortion-movement-is-escalating/)
+of the anti-abortion movement, it is plausible that CMP's activities will also
+escalate. CMP's targeting of a UCSD lab threatens to interrupt valuable
+scientific research, if left unchecked. In light of the recent history of
+right-wing violence in southern California, it also threatens the health and
+safety of UCSD researchers.
 
 These circumstances are cause for serious concern and warrant prompt action
 to protect research at UCSD from the influence of CMP.
