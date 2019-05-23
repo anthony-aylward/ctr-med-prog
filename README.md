@@ -72,5 +72,17 @@ varying degrees of outrage. Here is a particularly vitriolic example:
 
 ![outrage](figure/outrage.png)
 
+## Conclusions
 
-#
+CMP has historically been successful in using manufactured "evidence" to sway
+public opinion and curtail scientific research. Leading members of CMP are
+historically connected with violent extremism, and CMP's 2015 campaign against
+PP was likely a motivating factor in a politically-motivated mass shooting.
+
+CMP's targeting of a UCSD lab threatens to interrupt valuable scientific
+research, if left unchecked. In light of the recent history of right-wing
+violence in southern California, it also threatens the health and safety of
+UCSD researchers.
+
+These circumstances are cause for serious concern and warrant prompt action
+to protect research at UCSD from the influence of CMP.
