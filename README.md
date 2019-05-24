@@ -73,10 +73,10 @@ varying degrees of outrage. Here is a particularly vitriolic example:
 
 ## Conclusions
 
-CMP has historically been successful in using manufactured "evidence" to sway
+CMP has historically been successful in using manufactured controversy to sway
 public opinion and curtail scientific research. Leading members of CMP are
 historically connected with violent extremism, and CMP's 2015 campaign against
-PP was likely a motivating factor in a politically-motivated mass shooting.
+PP was likely an instigating factor in a politically-motivated mass shooting.
 
 Given the current nationwide [escalation](https://fivethirtyeight.com/features/we-categorized-hundreds-of-abortion-restrictions-heres-why-the-anti-abortion-movement-is-escalating/)
 of the anti-abortion movement, it is plausible that CMP's activities will also
