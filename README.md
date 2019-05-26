@@ -6,7 +6,7 @@ claims:
 
 ![tweet](figure/tweet.png)
 
-The tweet and emails have been cited in articles on pro-life news outlets at [lifesitenews.com](https://www.lifesitenews.com/news/government-funded-laboratory-seeks-to-buy-baby-body-parts-from-almost-anyone), [liveaction.org](https://www.liveaction.org/news/university-lab-mistake-fetal-body-pro-life/) and [californiafamily.org](https://californiafamily.org/2019/government-funded-university-mistakenly-requests-aborted-baby-parts-from-pro-life-group/).
+The tweet and emails have been cited in articles on pro-life news outlets at [lifesitenews.com](https://www.lifesitenews.com/news/government-funded-laboratory-seeks-to-buy-baby-body-parts-from-almost-anyone), [liveaction.org](https://www.liveaction.org/news/university-lab-mistake-fetal-body-pro-life/) and [californiafamily.org](https://californiafamily.org/2019/government-funded-university-mistakenly-requests-aborted-baby-parts-from-pro-life-group/). It was also reported on by the [San Diego Union-Tribune](https://www.sandiegouniontribune.com/news/health/story/2019-05-24/fetal-tissue-research-mistake-draws-ire-of-controversial-anti-abortion-group?utm_source=dlvr.it&utm_medium=twitter).
 
 After some digging into CMP's history, I now believe that CMP's
 objective is a significant defunding of research at UCSD and that being
