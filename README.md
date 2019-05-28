@@ -1,7 +1,7 @@
 # Center for Medical Progress and UCSD
 
 On May 14, 2019 the anti-abortion nonprofit [Center for Medical Progress](https://en.wikipedia.org/wiki/Center_for_Medical_Progress) (CMP) published a [tweet](https://twitter.com/CtrMedProgress/status/1128473861387902977) with a link to a PDF containing an email conversation
-between CMP and a scientist at a UCSD genetics and genomics lab. The tweet
+between CMP and a scientist at a UCSD genetics and genomics lab. The text of the PDF includes the names of UCSD researchers and the address of a UCSD research building. The tweet
 claims:
 
 ![tweet](figure/tweet.png)
@@ -83,7 +83,7 @@ of the anti-abortion movement, it is plausible that CMP's activities will also
 escalate. CMP's targeting of a UCSD lab threatens to interrupt valuable
 scientific research, if left unchecked. In light of the recent history of
 right-wing violence in southern California, it also threatens the health and
-safety of UCSD researchers.
+safety of UCSD researchers. In the worst case, a prolonged misinformation campaign by CMP could lead to a mass shooting on the UCSD campus.
 
 These circumstances are cause for serious concern and warrant prompt action
 to protect research at UCSD from the influence of CMP.
