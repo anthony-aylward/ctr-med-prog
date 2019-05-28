@@ -6,7 +6,7 @@ claims:
 
 ![tweet](figure/tweet.png)
 
-The tweet and emails have been cited in articles on pro-life news outlets at [lifesitenews.com](https://www.lifesitenews.com/news/government-funded-laboratory-seeks-to-buy-baby-body-parts-from-almost-anyone), [liveaction.org](https://www.liveaction.org/news/university-lab-mistake-fetal-body-pro-life/) and [californiafamily.org](https://californiafamily.org/2019/government-funded-university-mistakenly-requests-aborted-baby-parts-from-pro-life-group/).
+The tweet and emails have been cited in articles on pro-life news outlets at [lifesitenews.com](https://www.lifesitenews.com/news/government-funded-laboratory-seeks-to-buy-baby-body-parts-from-almost-anyone), [liveaction.org](https://www.liveaction.org/news/university-lab-mistake-fetal-body-pro-life/) and [californiafamily.org](https://californiafamily.org/2019/government-funded-university-mistakenly-requests-aborted-baby-parts-from-pro-life-group/). It was also reported on by the [San Diego Union-Tribune](https://www.sandiegouniontribune.com/news/health/story/2019-05-24/fetal-tissue-research-mistake-draws-ire-of-controversial-anti-abortion-group?utm_source=dlvr.it&utm_medium=twitter).
 
 After some digging into CMP's history, I now believe that CMP's
 objective is a significant defunding of research at UCSD and that being
@@ -61,7 +61,7 @@ ideology.
 
 > ### Sidebar: Right-wing terrorism in southern California
 >
-> Acts of right-wing domestic terrorism have occurred in southern California in recent history. The [2014 Islat Vista killings](https://en.wikipedia.org/wiki/2014_Isla_Vista_killings) were motivated by the perpetrator's [hatred of women](https://www.bbc.com/news/world-us-canada-43892189) and radicalization in [alt-right online communities](https://www.latimes.com/local/lanow/la-me-isle-vista-massacre-alt-right-20180206-story.html). The [2019 Poway
+> Acts of right-wing domestic terrorism have occurred in southern California in recent history. The [2014 Isla Vista killings](https://en.wikipedia.org/wiki/2014_Isla_Vista_killings) were motivated by the perpetrator's [hatred of women](https://www.bbc.com/news/world-us-canada-43892189) and radicalization in [alt-right online communities](https://www.latimes.com/local/lanow/la-me-isle-vista-massacre-alt-right-20180206-story.html). The [2019 Poway
 synagogue shooting](https://en.wikipedia.org/wiki/Poway_synagogue_shooting), which occurred just 20 miles from UCSD, was motivated by the perpetrator's [anti-semitism](https://www.nbcnews.com/news/us-news/anti-semitic-open-letter-posted-online-under-name-chabad-synagogue-n999211) and radicalization on the neo-nazi forum [8chan](https://www.bellingcat.com/news/americas/2019/04/28/ignore-the-poway-synagogue-shooters-manifesto-pay-attention-to-8chans-pol-board/). Far-right radicals in southern California have access to weapons and can be incited to violence by online activity.
 
 ## Response to CMP's tweet
@@ -73,10 +73,10 @@ varying degrees of outrage. Here is a particularly vitriolic example:
 
 ## Conclusions
 
-CMP has historically been successful in using manufactured "evidence" to sway
+CMP has historically been successful in using manufactured controversy to sway
 public opinion and curtail scientific research. Leading members of CMP are
 historically connected with violent extremism, and CMP's 2015 campaign against
-PP was likely a motivating factor in a politically-motivated mass shooting.
+PP was likely an instigating factor in a politically-motivated mass shooting.
 
 Given the current nationwide [escalation](https://fivethirtyeight.com/features/we-categorized-hundreds-of-abortion-restrictions-heres-why-the-anti-abortion-movement-is-escalating/)
 of the anti-abortion movement, it is plausible that CMP's activities will also
