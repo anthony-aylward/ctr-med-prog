@@ -80,10 +80,10 @@ PP was likely an instigating factor in a politically-motivated mass shooting.
 
 Given the current nationwide [escalation](https://fivethirtyeight.com/features/we-categorized-hundreds-of-abortion-restrictions-heres-why-the-anti-abortion-movement-is-escalating/)
 of the anti-abortion movement, it is plausible that CMP's activities will also
-escalate. In fact, the FBI considers [conspiracy theory-driven domestic extremists](https://news.yahoo.com/fbi-documents-conspiracy-theories-terrorism-160000507.html) to be a growing threat. CMP's targeting of a UCSD lab threatens to interrupt valuable
+escalate. CMP's targeting of a UCSD lab threatens to interrupt valuable
 scientific research, if left unchecked. In light of the recent history of
 right-wing violence in southern California, it also threatens the health and
-safety of UCSD researchers. In the worst case, a prolonged misinformation campaign by CMP could lead to a mass shooting on the UCSD campus.
+safety of UCSD researchers. In fact, the FBI considers [conspiracy theory-driven domestic extremists](https://news.yahoo.com/fbi-documents-conspiracy-theories-terrorism-160000507.html) to be a growing threat. In the worst case, a prolonged misinformation campaign by CMP could lead to a mass shooting on the UCSD campus.
 
 These circumstances are cause for serious concern and warrant prompt action
 to protect research at UCSD from the influence of CMP.
